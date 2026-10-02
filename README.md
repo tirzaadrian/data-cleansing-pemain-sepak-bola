@@ -20,6 +20,7 @@ Dataset yang digunakan adalah data mentah pemain sepak bola yang terdiri dari 30
 11. Standarisasi Status
 12. Pemeriksaan Data Duplikat
 13. Pemeriksaan Missing Value
+14. Export & Download Dataset
 
 ## Tools
 - Python
